@@ -7,3 +7,4 @@ vim.opt.shiftwidth = 2
 vim.opt.clipboard = "unnamedplus"
 vim.o.relativenumber = false
 vim.o.number = true
+vim.o.whichwrap = "<,>,[,]"
