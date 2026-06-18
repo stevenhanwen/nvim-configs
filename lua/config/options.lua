@@ -8,3 +8,4 @@ vim.opt.clipboard = "unnamedplus"
 vim.o.relativenumber = false
 vim.o.number = true
 vim.o.whichwrap = "<,>,[,]"
+vim.opt.updatetime = 250
